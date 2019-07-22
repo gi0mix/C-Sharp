@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SimpleCSharpApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-godmode -arg1 /arg2",
+      "nativeDebugging": false
+    }
+  }
+}
